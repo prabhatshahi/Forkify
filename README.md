@@ -1,1 +1,1 @@
-# Ecomerce Website using html css js
+# Ecom Website using HTML CSS JavaScript
